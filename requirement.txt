@@ -8,3 +8,4 @@ distance
 fuzzywuzzy
 xgboost
 nltk
+beautifulsoup4
