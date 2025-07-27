@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+joblib
+numpy
+pandas
+bs4
+distance
+fuzzywuzzy
+xgboost
+nltk
